@@ -1,0 +1,15 @@
+{
+	"file": "https://raw.githubusercontent.com/AliSTaylor/Upset-plots/master/mirs_upset_plot_2.csv",
+	"name": "miRNA Targeting",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 40 }
+	],
+    "author": "alyshastaylor",
+    "description": "Positively selected transcripts targeted by biologically regulated miRNAs"
+}
