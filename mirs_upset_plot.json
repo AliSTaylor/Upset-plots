@@ -11,5 +11,5 @@
 		{ "format": "binary", "start": 1, "end": 40 }
 	],
     "author": "alyshastaylor",
-    "description": "Positively selected transcripts targeted by biologically regulated miRNAs",
+    "description": "Positively selected transcripts targeted by biologically regulated miRNAs"
 }
